@@ -16,6 +16,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://tossy-apps.github.io/doc-review-studio/manual.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://tossy-apps.github.io/kensaku-kun/index_en.html</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
